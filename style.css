@@ -72,6 +72,39 @@ nav ul li a:hover {
     z-index: 2;
 }
 
+.parent {
+    position: relative;
+    height: 500px;
+}
+
+.paragraph1 {
+    font-size: 130%;
+    position: absolute;
+    top: 600px;
+    left: 20px;
+
+}
+
+.parent{
+    position: relative;
+}
+
+.vid {
+    position: absolute;
+    top: 600px;
+    right: 20px;
+}
+
+.vi{
+    width: 500px;
+    height: auto;
+    opacity: 80%;
+}
+
+.tit {
+    color: #c26328;
+}
+
 .hero h1 {
     font-size: 60px;
     letter-spacing: 2px;
